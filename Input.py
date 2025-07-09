@@ -1,0 +1,6 @@
+a = int (input("enter your 1: "))
+b = int (input("enter your 2: "))
+# c = int (input("enter your 3: "))
+print("Number of is a :", a)
+print("Age of is b ", b)
+print("City of is c", a+b)
